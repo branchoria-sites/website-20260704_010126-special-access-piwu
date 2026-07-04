@@ -1,0 +1,2784 @@
+{
+  "generated_at": "2026-07-04T00:59:05",
+  "passed": true,
+  "baseline": {
+    "article_pages": 218,
+    "amazon_specific_pages": 190,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 187,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "special-access-progr_a1c931": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_b21_public_protectio_e2ff58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_b2_split_secrecy_6c10ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_congress_sap_notice_ed1668": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_f117_public_reveal_b3d73e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_partial_openness_4d7ade": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_sap_worker_disclosur_dfc200": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_b2_testing_risk_af6755": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_contractor_sap_acces_2f3a1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_f117_stealth_case_bd60ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_sap_operational_test_8c3318": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_secret_weapons_budge_10a0df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_secret_weapon_testin_ee8e98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_captured_hardware_ri_a512c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_f117_wreckage_fragme_3d5bc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_maintenance_manual_c_d37e75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_rq170_stealth_clues_34e4e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_tamper_sensors_10add3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_zeroisation_lockout_fc3ac4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_compliance_inspe_847325": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_contract_control_798565": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_document_marking_42ba92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_read_ins_4231e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_separate_workspa_e69148": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_top_secret_clearance_9714c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_b2_a12_sap_oversight_224bba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_hidden_sap_budget_re_17632d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_new_sap_notice_wait_5ee0e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_personal_staff_sap_l_09bda6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_sapco_congress_acces_488acc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_sap_status_change_no_6b1318": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_b2_industrial_securi_64aee0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_cleared_facility_bar_43377b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_dd254_contractor_acc_80492a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_preaward_secret_bidd_efa18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_sap_contract_closeou_436895": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_subcontractor_need_t_4457f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_eternalblue_failure_c756d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_hunt_forward_disclos_1e45b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_operational_trace_ri_00c0ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_target_access_knowle_fd6146": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_zero_day_stockpiles_eddb7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_zero_day_tradeoffs_344496": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_sap_annual_review_1f40ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_sap_exit_path_e92297": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_sap_operational_use_87fba9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_sap_senior_approval_1fec69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_top_secret_not_enoug_47fad3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_waived_reporting_dil_dfdc99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_black_budget_reform_5796ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_committee_staff_acce_d14cc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_eight_lawmakers_over_25bc79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_gao_sap_oversight_ga_2c2aa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_sapco_congressional_db096c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_waiver_reporting_fun_627f88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_reading_secrecy_lang_eac8f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_sap_marking_illusion_2cf227": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_top_secret_not_unive_dd8793": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_ts_sci_compartment_m_0adb65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_unacknowledged_sap_e_04b972": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_waived_sap_oversight_2655d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_ames_source_exposure_014c7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_cia_sims_mosaic_prob_2da534": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_counterintelligence_d9e707": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_foreign_partner_liai_69e336": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_technical_measuremen_cffcb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_timestamps_expose_so_6bc038": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_air_force_isoo_dispu_c16052": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_annual_sap_reviews_5e0fca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_fy2021_sap_warning_4bf88a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_isoo_access_limits_f60306": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_isoo_sap_accounting_c7fc66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_sap_self_inspection_8da417": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_logistics_exposure_5ac7ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_mission_plan_compart_e75eae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_open_source_tracking_ed4f01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_operational_sap_over_a8932a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_opsec_indicator_patt_66ba5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_sliced_mission_acces_510246": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_a12_secrecy_stress_t_bc5523": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_gao_sap_oversight_ga_b68d94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_hidden_lessons_relea_8f427d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_need_to_know_compari_eb14a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_sapoc_duplication_ch_f43787": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_similar_program_noti_c7f448": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_access_approval_auth_bce65c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_need_to_know_beats_c_c7a524": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_program_access_reque_0b1214": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_sap_access_expansion_bbbb14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_sap_indoctrination_a_95b1eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_sap_read_in_briefing_1b8334": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sap_programme_struct_29433c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sap_sci_access_gates_7d2c55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sap_sci_markings_323f90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sap_sci_overlap_6bb81b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sci_source_protectio_b631a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_ts_sci_not_rank_8ed320": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_pdi_sap_exhibit_gap_9da4c8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_sap_audit_access_gap_92797b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_sap_budget_totals_ga_c5f966": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_sap_cost_baselines_e5f6a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_sap_duplication_noti_918979": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_waived_sap_oversight_d501e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_nicka_registry_56956f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_nickname_vs_codeword_b66fc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_random_sap_names_bfcd1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_sap_banner_markings_0670dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_sap_nicknames_hide_m_b90842": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_sap_programme_identi_54925e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_annual_sap_review_953cdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_dod_necessary_standa_58ede7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_exceptional_threat_t_10779c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_isoo_access_limits_f60306": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_sap_accounting_syste_e540a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_small_access_lists_34f867": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_acknowledged_not_dec_867087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_b2_partial_transpare_d8b29b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_residual_sap_secrets_b815c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_sap_14_day_notice_b1d030": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_sap_markings_long_ta_2330ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_tacit_blue_museum_re_d369bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_conspicuous_sap_mark_45c0dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_multiple_sap_banners_e650b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_sap_banner_order_63ec80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_sap_marking_guides_f30bfd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_sap_portion_markings_48fef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_sar_not_above_top_se_c76db4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_contractor_sap_nda_d_b6074f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_former_worker_prepub_38a49e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_sap_debriefing_dutie_b91308": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_sap_nda_vs_workplace_435184": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_sap_uncertainty_repo_18e37a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_verify_access_before_2afe2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_sapf_accreditation_a_1e3168": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_sapf_construction_fl_d2b137": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_sapf_device_restrict_e0d784": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_sap_room_entry_rules_6d4930": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_security_in_depth_sa_017b2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_tempest_sap_room_des_853274": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_b2_disclosure_limits_686964": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_b2_supplier_secrecy_48131f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_f117_invisible_befor_ab7ce4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_stealth_design_clues_3c25a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_tacit_blue_stealth_t_7a0922": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_tonopah_f117_secrecy_e4cd01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_annual_sap_revalidat_3c83ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_march_1_sap_report_0400fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_new_sap_notice_gate_39e5ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_sap_disclosure_notic_34514c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_sap_milestone_report_47a4ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_sap_multiyear_budget_4fe048": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_classified_existence_dcd888": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_congress_hidden_sap_788672": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_hidden_sap_funding_b5d05d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_leaks_not_acknowledg_c78dcd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_waived_vs_unacknowle_21d035": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_who_can_confirm_18c64b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_case_by_case_waiver_f337fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_cleared_staff_limits_69fd73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_eight_member_oversig_0db123": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_gao_sap_performance_79d47d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_moynihan_waived_secr_ec6e09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_narrow_reporting_los_988ac9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 208,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "special-access-progr_a1c931": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_b21_public_protectio_e2ff58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_b2_split_secrecy_6c10ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_congress_sap_notice_ed1668": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_f117_public_reveal_b3d73e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_partial_openness_4d7ade": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acknowledged_saps_fcb185_sap_worker_disclosur_dfc200": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_b2_testing_risk_af6755": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_contractor_sap_acces_2f3a1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_f117_stealth_case_bd60ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_sap_operational_test_8c3318": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_secret_weapons_budge_10a0df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_acquisition_saps_90966e_secret_weapon_testin_ee8e98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_captured_hardware_ri_a512c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_f117_wreckage_fragme_3d5bc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_maintenance_manual_c_d37e75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_rq170_stealth_clues_34e4e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_tamper_sensors_10add3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_anti_tamper_methods_170f2b_zeroisation_lockout_fc3ac4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_compliance_inspe_847325": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_contract_control_798565": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_document_marking_42ba92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_read_ins_4231e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_sap_separate_workspa_e69148": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_beyond_top_secret_27dc75_top_secret_clearance_9714c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_b2_a12_sap_oversight_224bba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_hidden_sap_budget_re_17632d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_new_sap_notice_wait_5ee0e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_personal_staff_sap_l_09bda6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_sapco_congress_acces_488acc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_congressional_oversi_ca0139_sap_status_change_no_6b1318": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_b2_industrial_securi_64aee0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_cleared_facility_bar_43377b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_dd254_contractor_acc_80492a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_preaward_secret_bidd_efa18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_sap_contract_closeou_436895": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_contractor_sap_acces_2f3a1e_subcontractor_need_t_4457f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_eternalblue_failure_c756d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_hunt_forward_disclos_1e45b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_operational_trace_ri_00c0ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_target_access_knowle_fd6146": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_zero_day_stockpiles_eddb7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_cyber_capability_sap_c3afe2_zero_day_tradeoffs_344496": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_sap_annual_review_1f40ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_sap_exit_path_e92297": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_sap_operational_use_87fba9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_sap_senior_approval_1fec69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_top_secret_not_enoug_47fad3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_dod_sap_policy_d6d311_waived_reporting_dil_dfdc99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_black_budget_reform_5796ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_committee_staff_acce_d14cc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_eight_lawmakers_over_25bc79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_gao_sap_oversight_ga_2c2aa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_sapco_congressional_db096c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_eight_member_model_2fdfba_waiver_reporting_fun_627f88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_reading_secrecy_lang_eac8f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_sap_marking_illusion_2cf227": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_top_secret_not_unive_dd8793": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_ts_sci_compartment_m_0adb65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_unacknowledged_sap_e_04b972": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_higher_classificatio_df09ae_waived_sap_oversight_2655d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_ames_source_exposure_014c7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_cia_sims_mosaic_prob_2da534": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_counterintelligence_d9e707": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_foreign_partner_liai_69e336": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_technical_measuremen_cffcb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_intelligence_saps_87a6e0_timestamps_expose_so_6bc038": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_air_force_isoo_dispu_c16052": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_annual_sap_reviews_5e0fca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_fy2021_sap_warning_4bf88a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_isoo_access_limits_f60306": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_isoo_sap_accounting_c7fc66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_isoo_accountability_c19699_sap_self_inspection_8da417": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_moynihan_secrecy_cos_29a4b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_moynihan_secrecy_cos_29a4b8_a12_secret_program_w_d7bf4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_moynihan_secrecy_cos_29a4b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_moynihan_secrecy_cos_29a4b8_moynihan_disciplined_5d5be8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_moynihan_secrecy_cos_29a4b8_sap_internal_challen_fde905": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_moynihan_secrecy_cos_29a4b8_sap_security_bureauc_8f1d98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_moynihan_secrecy_cos_29a4b8_secrecy_cost_blind_s_b21439": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_moynihan_secrecy_cos_29a4b8_waived_sap_reporting_d8e6d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_logistics_exposure_5ac7ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_mission_plan_compart_e75eae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_open_source_tracking_ed4f01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_operational_sap_over_a8932a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_opsec_indicator_patt_66ba5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_operations_saps_0ae504_sliced_mission_acces_510246": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_a12_secrecy_stress_t_bc5523": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_gao_sap_oversight_ga_b68d94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_hidden_lessons_relea_8f427d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_need_to_know_compari_eb14a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_sapoc_duplication_ch_f43787": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_over_compartmentatio_83b738_similar_program_noti_c7f448": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_public_accountabilit_ee83d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_public_accountabilit_ee83d5_annual_sap_reviews_5e0fca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_public_accountabilit_ee83d5_declassification_pub_8dcc0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_public_accountabilit_ee83d5_disguised_budget_lin_679dc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_public_accountabilit_ee83d5_gao_sap_acquisition_d16a1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_public_accountabilit_ee83d5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_public_accountabilit_ee83d5_unacknowledged_trust_643843": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_public_accountabilit_ee83d5_yellow_fruit_oversig_54713d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_access_approval_auth_bce65c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_need_to_know_beats_c_c7a524": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_program_access_reque_0b1214": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_sap_access_expansion_bbbb14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_sap_indoctrination_a_95b1eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_read_in_rules_f043eb_sap_read_in_briefing_1b8334": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sap_programme_struct_29433c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sap_sci_access_gates_7d2c55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sap_sci_markings_323f90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sap_sci_overlap_6bb81b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_sci_source_protectio_b631a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_saps_vs_compartments_928e4c_ts_sci_not_rank_8ed320": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_pdi_sap_exhibit_gap_9da4c8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_sap_audit_access_gap_92797b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_sap_budget_totals_ga_c5f966": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_sap_cost_baselines_e5f6a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_sap_duplication_noti_918979": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_budget_visibilit_e648f4_waived_sap_oversight_d501e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_nicka_registry_56956f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_nickname_vs_codeword_b66fc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_random_sap_names_bfcd1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_sap_banner_markings_0670dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_sap_nicknames_hide_m_b90842": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_codewords_b53867_sap_programme_identi_54925e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_annual_sap_review_953cdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_dod_necessary_standa_58ede7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_exceptional_threat_t_10779c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_isoo_access_limits_f60306": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_sap_accounting_syste_e540a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_creation_rules_8f3236_small_access_lists_34f867": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_acknowledged_not_dec_867087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_b2_partial_transpare_d8b29b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_residual_sap_secrets_b815c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_sap_14_day_notice_b1d030": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_sap_markings_long_ta_2330ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_declassification_332aa9_tacit_blue_museum_re_d369bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_conspicuous_sap_mark_45c0dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_multiple_sap_banners_e650b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_sap_banner_order_63ec80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_sap_marking_guides_f30bfd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_sap_portion_markings_48fef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_markings_413d88_sar_not_above_top_se_c76db4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_contractor_sap_nda_d_b6074f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_former_worker_prepub_38a49e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_sap_debriefing_dutie_b91308": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_sap_nda_vs_workplace_435184": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_sap_uncertainty_repo_18e37a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_sap_ndas_20ccd4_verify_access_before_2afe2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_sapf_accreditation_a_1e3168": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_sapf_construction_fl_d2b137": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_sapf_device_restrict_e0d784": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_sap_room_entry_rules_6d4930": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_security_in_depth_sa_017b2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_secure_rooms_b86fa6_tempest_sap_room_des_853274": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_small_access_blind_s_4b7bf4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_small_access_blind_s_4b7bf4_complete_sap_access_5ec3c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_small_access_blind_s_4b7bf4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_small_access_blind_s_4b7bf4_sap_auditor_access_02cfe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_small_access_blind_s_4b7bf4_sap_cross_function_b_62e1a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_small_access_blind_s_4b7bf4_sap_need_to_know_ove_f33076": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_small_access_blind_s_4b7bf4_sap_need_to_share_le_8af9f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_small_access_blind_s_4b7bf4_waived_sap_oversight_d2038f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_b2_disclosure_limits_686964": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_b2_supplier_secrecy_48131f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_f117_invisible_befor_ab7ce4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_stealth_design_clues_3c25a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_tacit_blue_stealth_t_7a0922": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_stealth_aircraft_sap_28ab68_tonopah_f117_secrecy_e4cd01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_annual_sap_revalidat_3c83ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_march_1_sap_report_0400fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_new_sap_notice_gate_39e5ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_sap_disclosure_notic_34514c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_sap_milestone_report_47a4ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_title_10_119_d3c3cb_sap_multiyear_budget_4fe048": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_classified_existence_dcd888": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_congress_hidden_sap_788672": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_hidden_sap_funding_b5d05d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_leaks_not_acknowledg_c78dcd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_waived_vs_unacknowle_21d035": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_unacknowledged_saps_2280a7_who_can_confirm_18c64b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_case_by_case_waiver_f337fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_cleared_staff_limits_69fd73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_eight_member_oversig_0db123": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_gao_sap_performance_79d47d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_moynihan_waived_secr_ec6e09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "special-access-progr_a1c931_waived_saps_d23c4e_narrow_reporting_los_988ac9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 218,
+  "regressions": []
+}
