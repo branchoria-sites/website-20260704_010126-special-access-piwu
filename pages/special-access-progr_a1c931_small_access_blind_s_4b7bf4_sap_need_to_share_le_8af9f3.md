@@ -409,7 +409,7 @@ For special-access programmes, the challenge is therefore not choosing between s
           <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Shows how highly sensitive programs balance innovation with secrecy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ For special-access programmes, the challenge is therefore not choosing between s
           <a href="https://www.amazon.com/s?k=The+black+banners+Ali+H.+Soufan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The black banners">The black banners</a>
         </h4>
         <p class="fr-book-author">By Ali H. Soufan</p>
-        
+
         <p class="fr-book-desc">Discusses intelligence sharing failures and organizational barriers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+black+banners+Ali+H.+Soufan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ For special-access programmes, the challenge is therefore not choosing between s
           <a href="https://www.amazon.com/s?k=The+9%2F11+Commission+report+National+Commission+on+Terrorist+Attacks+upon+the+United+States.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 9/11 Commission report">The 9/11 Commission report</a>
         </h4>
         <p class="fr-book-author">By National Commission on Terrorist Attacks upon the United States.</p>
-        
+
         <p class="fr-book-desc">Directly addresses the need-to-share versus need-to-know debate after 9/11.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+9%2F11+Commission+report+National+Commission+on+Terrorist+Attacks+upon+the+United+States.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

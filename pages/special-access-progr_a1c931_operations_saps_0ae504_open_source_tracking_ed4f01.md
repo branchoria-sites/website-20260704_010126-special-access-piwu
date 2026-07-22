@@ -396,7 +396,7 @@ The principal lesson from open-source tracking incidents is therefore broader th
           <a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Invisibility">The Art of Invisibility</a>
         </h4>
         <p class="fr-book-author">By Kevin Mitnick</p>
-        
+
         <p class="fr-book-desc">Covers digital privacy and reducing public information exposure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ The principal lesson from open-source tracking incidents is therefore broader th
           <a href="https://www.amazon.com/s?k=The+Fifth+Domain+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Domain">The Fifth Domain</a>
         </h4>
         <p class="fr-book-author">By Richard A. Clarke, Robert K. Knake</p>
-        
+
         <p class="fr-book-desc">Provides context on modern digital security challenges affecting defense.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fifth+Domain+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ The principal lesson from open-source tracking incidents is therefore broader th
           <a href="https://www.amazon.com/s?k=We+Are+Bellingcat+Eliot+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We Are Bellingcat">We Are Bellingcat</a>
         </h4>
         <p class="fr-book-author">By Eliot Higgins</p>
-        
+
         <p class="fr-book-desc">Shows real-world use of publicly available information to uncover hidden activity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+Are+Bellingcat+Eliot+Higgins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ The principal lesson from open-source tracking incidents is therefore broader th
           <a href="https://www.amazon.com/s?k=Open+Source+Intelligence+Techniques+Michael+Bazzell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Source Intelligence Techniques">Open Source Intelligence Techniques</a>
         </h4>
         <p class="fr-book-author">By Michael Bazzell</p>
-        
+
         <p class="fr-book-desc">Explains how public data sources can be combined to reveal sensitive information.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Source+Intelligence+Techniques+Michael+Bazzell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

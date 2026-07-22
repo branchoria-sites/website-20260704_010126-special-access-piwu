@@ -426,7 +426,7 @@ The expression "TS/SCI" is best understood as shorthand for a combination of sec
 <a href="https://www.amazon.com/s?k=The+Secret+Sentry+by+Matthew+M.+Aid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Sentry">The Secret Sentry</a>
 </h4>
 <p class="fr-book-author">By Matthew M. Aid</p>
-        
+
 <p class="fr-book-desc">Provides practical context for compartmented intelligence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Secret+Sentry+by+Matthew+M.+Aid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ The expression "TS/SCI" is best understood as shorthand for a combination of sec
 <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
 </h4>
 <p class="fr-book-author">By Peter Hennessy</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Geschichte 1940-1970, Military planning, Nuclear weapons, Cold War, Kernoorlog.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ The expression "TS/SCI" is best understood as shorthand for a combination of sec
 <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intelligence">Intelligence</a>
 </h4>
 <p class="fr-book-author">By Lowenthal, Mark M.</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Intelligence service, Geheimdienst, Inlichtingendiensten, Spionage, Securite publique.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

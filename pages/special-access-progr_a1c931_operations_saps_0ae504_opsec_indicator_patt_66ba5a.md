@@ -412,7 +412,7 @@ For operations protected within OS-SAPs, the challenge is therefore not only to 
           <a href="https://www.amazon.com/s?k=We+Are+Bellingcat+Eliot+Higgins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We Are Bellingcat">We Are Bellingcat</a>
         </h4>
         <p class="fr-book-author">By Eliot Higgins</p>
-        
+
         <p class="fr-book-desc">Demonstrates mosaic analysis using public information.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+Are+Bellingcat+Eliot+Higgins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For operations protected within OS-SAPs, the challenge is therefore not only to 
           <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Intelligence">The Craft of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Allen Dulles</p>
-        
+
         <p class="fr-book-desc">Introduces principles behind intelligence gathering and analysis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ For operations protected within OS-SAPs, the challenge is therefore not only to 
           <a href="https://www.amazon.com/s?k=Ghost+Fleet+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
         </h4>
         <p class="fr-book-author">By P.W. Singer, August Cole</p>
-        
+
         <p class="fr-book-desc">Illustrates consequences of information leakage in modern conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Fleet+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ For operations protected within OS-SAPs, the challenge is therefore not only to 
           <a href="https://www.amazon.com/s?k=Open+Source+Intelligence+Techniques+Michael+Bazzell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Source Intelligence Techniques">Open Source Intelligence Techniques</a>
         </h4>
         <p class="fr-book-author">By Michael Bazzell</p>
-        
+
         <p class="fr-book-desc">Explains how small observable clues combine into actionable intelligence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Source+Intelligence+Techniques+Michael+Bazzell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

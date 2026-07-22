@@ -435,7 +435,7 @@ Its most enduring contribution is showing that undisclosed vulnerabilities often
           <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
         </h4>
         <p class="fr-book-author">By Nicole Perlroth</p>
-        
+
         <p class="fr-book-desc">Directly addresses zero-day vulnerabilities and government stockpiles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ Its most enduring contribution is showing that undisclosed vulnerabilities often
           <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
         </h4>
         <p class="fr-book-author">By Kim Zetter</p>
-        
+
         <p class="fr-book-desc">Explains the operational use of sophisticated cyber exploits.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -469,7 +469,7 @@ Its most enduring contribution is showing that undisclosed vulnerabilities often
           <a href="https://www.amazon.com/s?k=Sandworm+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
         </h4>
         <p class="fr-book-author">By Andy Greenberg</p>
-        
+
         <p class="fr-book-desc">Shows how advanced exploits are discovered and analyzed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sandworm+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -486,7 +486,7 @@ Its most enduring contribution is showing that undisclosed vulnerabilities often
           <a href="https://www.amazon.com/s?k=Serious+Cryptography+Jean-Philippe+Aumasson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Serious Cryptography">Serious Cryptography</a>
         </h4>
         <p class="fr-book-author">By Jean-Philippe Aumasson</p>
-        
+
         <p class="fr-book-desc">Builds understanding of secure systems affected by undisclosed vulnerabilities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Serious+Cryptography+Jean-Philippe+Aumasson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

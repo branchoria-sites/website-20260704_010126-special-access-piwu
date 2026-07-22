@@ -585,7 +585,7 @@ The Moynihan critique endures because it does not deny the need for secrets. It 
 <a href="https://www.amazon.com/s?k=National+security+and+double+government+Michael+J.+Glennon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National security and double government">National security and double government</a>
 </h4>
 <p class="fr-book-author">By Michael J. Glennon</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Legislative oversight, Management, National security, Government accountability, Judicial review.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=National+security+and+double+government+Michael+J.+Glennon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -602,7 +602,7 @@ The Moynihan critique endures because it does not deny the need for secrets. It 
 <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
 </h4>
 <p class="fr-book-author">By Peter Hennessy</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Geschichte 1940-1970, Military planning, Nuclear weapons, Cold War, Kernoorlog.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -619,7 +619,7 @@ The Moynihan critique endures because it does not deny the need for secrets. It 
 <a href="https://www.amazon.com/s?k=Secrecy%3A+The+American+Experience+%28World+Religions%3A+Themes+and+Issues%29+Daniel+Patrick+Moynihan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secrecy: The American Experience (World Religions: Themes and Issues)">Secrecy: The American Experience (World Religions: Themes and...</a>
 </h4>
 <p class="fr-book-author">By Daniel Patrick Moynihan</p>
-        
+
 <p class="fr-book-desc">First published 1998.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Secrecy%3A+The+American+Experience+%28World+Religions%3A+Themes+and+Issues%29+Daniel+Patrick+Moynihan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

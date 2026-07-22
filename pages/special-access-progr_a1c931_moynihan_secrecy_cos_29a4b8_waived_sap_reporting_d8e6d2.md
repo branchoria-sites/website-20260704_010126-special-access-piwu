@@ -393,16 +393,16 @@ From the perspective of the Moynihan critique, this concentration is the central
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=National+security+and+double+government+Michael+J.+Glennon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National security and double government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14377803-M.jpg" alt="Cover for National security and double government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Puzzle+Palace+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Puzzle Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaS5hG8TiEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Puzzle Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=National+security+and+double+government+Michael+J.+Glennon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National security and double government">National security and double government</a>
+          <a href="https://www.amazon.com/s?k=The+Puzzle+Palace+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Puzzle Palace">The Puzzle Palace</a>
         </h4>
-        <p class="fr-book-author">By Michael J. Glennon</p>
-        
-        <p class="fr-book-desc">Addresses concentrated national security decision-making.</p>
+        <p class="fr-book-author">By James Bamford</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+        <p class="fr-book-desc">Illustrates oversight challenges in secret organizations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=National+security+and+double+government+Michael+J.+Glennon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Puzzle+Palace+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,16 +410,16 @@ From the perspective of the Moynihan critique, this concentration is the central
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CIA and the Cult of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xi-sAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The CIA and the Cult of Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=National+security+and+double+government+Michael+J.+Glennon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National security and double government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14377803-M.jpg" alt="Cover for National security and double government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
+          <a href="https://www.amazon.com/s?k=National+security+and+double+government+Michael+J.+Glennon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National security and double government">National security and double government</a>
         </h4>
-        <p class="fr-book-author">By Victor Marchetti, John Marks</p>
-        
-        <p class="fr-book-desc">Discusses accountability and secrecy in intelligence.</p>
+        <p class="fr-book-author">By Michael J. Glennon</p>
+
+        <p class="fr-book-desc">Addresses concentrated national security decision-making.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=National+security+and+double+government+Michael+J.+Glennon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -433,7 +433,7 @@ From the perspective of the Moynihan critique, this concentration is the central
           <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
         </h4>
         <p class="fr-book-author">By Peter Hennessy</p>
-        
+
         <p class="fr-book-desc">Places oversight debates in wider historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ From the perspective of the Moynihan critique, this concentration is the central
           <a href="https://www.amazon.com/s?k=Secrecy%3A+The+American+Experience+%28World+Religions%3A+Themes+and+Issues%29+Daniel+Patrick+Moynihan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secrecy: The American Experience (World Religions: Themes and Issues)">Secrecy: The American Experience (World Religions: Themes and...</a>
         </h4>
         <p class="fr-book-author">By Daniel Patrick Moynihan</p>
-        
+
         <p class="fr-book-desc">First published 1998.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Secrecy%3A+The+American+Experience+%28World+Religions%3A+Themes+and+Issues%29+Daniel+Patrick+Moynihan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ From the perspective of the Moynihan critique, this concentration is the central
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=National+security+and+double+government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">National security and double government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The CIA and the Cult of Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+state&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret state</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Puzzle+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Puzzle Palace</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=National+security+and+double+government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">National security and double government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+state&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret state</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

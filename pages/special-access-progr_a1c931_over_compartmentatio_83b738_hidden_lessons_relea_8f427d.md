@@ -404,7 +404,7 @@ For highly classified SAPs, the greatest hidden cost of over-compartmentation ma
           <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
         </h4>
         <p class="fr-book-author">By Atul Gawande</p>
-        
+
         <p class="fr-book-desc">Demonstrates practical methods for reducing repeated errors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For highly classified SAPs, the greatest hidden cost of over-compartmentation ma
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Helps explain recurring decision failures in organizations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For highly classified SAPs, the greatest hidden cost of over-compartmentation ma
           <a href="https://www.amazon.com/s?k=The+Fifth+Discipline+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Discipline">The Fifth Discipline</a>
         </h4>
         <p class="fr-book-author">By Peter M. Senge</p>
-        
+
         <p class="fr-book-desc">Explains organizational learning and avoiding repeated mistakes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fifth+Discipline+Peter+M.+Senge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For highly classified SAPs, the greatest hidden cost of over-compartmentation ma
           <a href="https://www.amazon.com/s?k=The+Knowledge-Creating+Company+Ikujiro+Nonaka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge-Creating Company">The Knowledge-Creating Company</a>
         </h4>
         <p class="fr-book-author">By Ikujiro Nonaka</p>
-        
+
         <p class="fr-book-desc">Directly relevant to preserving and sharing institutional learning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Knowledge-Creating+Company+Ikujiro+Nonaka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

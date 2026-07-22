@@ -454,7 +454,7 @@ Within special-access environments, this approach helps preserve critical progra
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
         </h4>
         <p class="fr-book-author">By Ross Anderson</p>
-        
+
         <p class="fr-book-desc">Provides foundational treatment of tamper resistance and secure systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -471,7 +471,7 @@ Within special-access environments, this approach helps preserve critical progra
           <a href="https://www.amazon.com/s?k=The+Hardware+Hacking+Handbook+Colin+O%27Flynn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hardware Hacking Handbook">The Hardware Hacking Handbook</a>
         </h4>
         <p class="fr-book-author">By Colin O&#x27;Flynn, Jasper van Woudenberg</p>
-        
+
         <p class="fr-book-desc">Explains tamper detection, physical attacks and defensive design.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hardware+Hacking+Handbook+Colin+O%27Flynn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -488,7 +488,7 @@ Within special-access environments, this approach helps preserve critical progra
           <a href="https://www.amazon.com/s?k=Practical+Hardware+Pentesting+Jean-Georges+Valle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Hardware Pentesting">Practical Hardware Pentesting</a>
         </h4>
         <p class="fr-book-author">By Jean-Georges Valle</p>
-        
+
         <p class="fr-book-desc">Covers hardware attack surfaces and protection mechanisms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+Hardware+Pentesting+Jean-Georges+Valle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -505,7 +505,7 @@ Within special-access environments, this approach helps preserve critical progra
           <a href="https://www.amazon.com/s?k=Serious+Cryptography+Jean-Philippe+Aumasson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Serious Cryptography">Serious Cryptography</a>
         </h4>
         <p class="fr-book-author">By Jean-Philippe Aumasson</p>
-        
+
         <p class="fr-book-desc">Helps explain secure hardware responses protecting sensitive information.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Serious+Cryptography+Jean-Philippe+Aumasson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -408,7 +408,7 @@ That connection is what makes the form the practical gateway into classified ind
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
         </h4>
         <p class="fr-book-author">By Ross Anderson</p>
-        
+
         <p class="fr-book-desc">Supports understanding of security governance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ That connection is what makes the form the practical gateway into classified ind
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Places defense contracting in strategic context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ That connection is what makes the form the practical gateway into classified ind
           <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set">Ross Anderson Security Engineering 3rd Edition and Marc Tobia...</a>
         </h4>
         <p class="fr-book-author">By Ross J. Anderson, Marc Weber Tobias</p>
-        
+
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ That connection is what makes the form the practical gateway into classified ind
           <a href="https://www.amazon.com/s?k=Formation+of+Government+Contracts+Nash%2C+Ralph+C.%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Formation of Government Contracts">Formation of Government Contracts</a>
         </h4>
         <p class="fr-book-author">By Nash, Ralph C., Jr., Cibinic, John, Jr.</p>
-        
+
         <p class="fr-book-desc">Provides procurement background relevant to DD Form 254.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Formation+of+Government+Contracts+Nash%2C+Ralph+C.%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

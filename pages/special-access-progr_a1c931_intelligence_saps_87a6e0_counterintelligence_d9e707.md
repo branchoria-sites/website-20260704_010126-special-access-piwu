@@ -424,7 +424,7 @@ This competitive cycle explains why counterintelligence compartments are often a
           <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Intelligence">The Craft of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Allen Dulles</p>
-        
+
         <p class="fr-book-desc">Discusses intelligence and counterintelligence fundamentals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ This competitive cycle explains why counterintelligence compartments are often a
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
         </h4>
         <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-        
+
         <p class="fr-book-desc">Illustrates the operational stakes of counterintelligence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ This competitive cycle explains why counterintelligence compartments are often a
           <a href="https://www.amazon.com/s?k=The+Secret+World+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret World">The Secret World</a>
         </h4>
         <p class="fr-book-author">By Christopher Andrew</p>
-        
+
         <p class="fr-book-desc">Provides context for counterintelligence operations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+World+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ This competitive cycle explains why counterintelligence compartments are often a
           <a href="https://www.amazon.com/s?k=Circle+of+treason+Sandra+Grimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Circle of treason">Circle of treason</a>
         </h4>
         <p class="fr-book-author">By Sandra Grimes, Jeanne Vertefeuille</p>
-        
+
         <p class="fr-book-desc">Focuses on counterintelligence investigations and mole hunting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Circle+of+treason+Sandra+Grimes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

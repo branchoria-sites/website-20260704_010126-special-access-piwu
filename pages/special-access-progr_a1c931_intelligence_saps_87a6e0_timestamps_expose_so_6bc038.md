@@ -429,7 +429,7 @@ This illustrates an important feature of intelligence security. The most dangero
 <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Intelligence">The Craft of Intelligence</a>
 </h4>
 <p class="fr-book-author">By Allen Dulles</p>
-        
+
 <p class="fr-book-desc">Provides enduring principles of source protection.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ This illustrates an important feature of intelligence security. The most dangero
 <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+by+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes">Legacy of Ashes</a>
 </h4>
 <p class="fr-book-author">By Tim Weiner</p>
-        
+
 <p class="fr-book-desc">Adds institutional context for intelligence secrecy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+by+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ This illustrates an important feature of intelligence security. The most dangero
 <a href="https://www.amazon.com/s?k=Spycraft+by+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spycraft">Spycraft</a>
 </h4>
 <p class="fr-book-author">By Robert Wallace</p>
-        
+
 <p class="fr-book-desc">Explains operational security and protection of sources.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Spycraft+by+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

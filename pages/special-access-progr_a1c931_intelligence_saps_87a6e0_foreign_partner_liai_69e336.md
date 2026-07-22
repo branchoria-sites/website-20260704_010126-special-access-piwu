@@ -392,7 +392,7 @@ For these reasons, intelligence professionals often treat the identity of a coop
           <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Intelligence">The Craft of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Allen Dulles</p>
-        
+
         <p class="fr-book-desc">Explains international intelligence partnerships and secrecy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For these reasons, intelligence professionals often treat the identity of a coop
           <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes">Legacy of Ashes</a>
         </h4>
         <p class="fr-book-author">By Tim Weiner</p>
-        
+
         <p class="fr-book-desc">Provides context for intelligence relationships and institutional secrecy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For these reasons, intelligence professionals often treat the identity of a coop
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
         </h4>
         <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-        
+
         <p class="fr-book-desc">Illustrates multinational intelligence cooperation and risk.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ For these reasons, intelligence professionals often treat the identity of a coop
           <a href="https://www.amazon.com/s?k=The+Secret+World+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret World">The Secret World</a>
         </h4>
         <p class="fr-book-author">By Christopher Andrew</p>
-        
+
         <p class="fr-book-desc">Covers liaison relationships and international intelligence cooperation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+World+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

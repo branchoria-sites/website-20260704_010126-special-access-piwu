@@ -459,7 +459,7 @@ For this reason, zeroisation is normally only one element within a broader anti-
           <a href="https://www.amazon.com/s?k=Serious+Cryptography+Jean-Philippe+Aumasson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Serious Cryptography">Serious Cryptography</a>
         </h4>
         <p class="fr-book-author">By Jean-Philippe Aumasson</p>
-        
+
         <p class="fr-book-desc">Explains cryptographic key protection underlying zeroisation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Serious+Cryptography+Jean-Philippe+Aumasson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ For this reason, zeroisation is normally only one element within a broader anti-
           <a href="https://www.amazon.com/s?k=Introduction+to+Hardware+Security+and+Trust+Mohammad+Tehranipoor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Hardware Security and Trust">Introduction to Hardware Security and Trust</a>
         </h4>
         <p class="fr-book-author">By Mohammad Tehranipoor, Cliff Wang</p>
-        
+
         <p class="fr-book-desc">Addresses hardware trust and tamper resistance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Hardware+Security+and+Trust+Mohammad+Tehranipoor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -493,7 +493,7 @@ For this reason, zeroisation is normally only one element within a broader anti-
           <a href="https://www.amazon.com/s?k=Cryptography+engineering+Niels+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptography engineering">Cryptography engineering</a>
         </h4>
         <p class="fr-book-author">By Niels Ferguson, Bruce Schneier et al.</p>
-        
+
         <p class="fr-book-desc">Covers secure system design and key management concepts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cryptography+engineering+Niels+Ferguson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -510,7 +510,7 @@ For this reason, zeroisation is normally only one element within a broader anti-
           <a href="https://www.amazon.com/s?k=Practical+Reverse+Engineering+Bruce+Dang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Reverse Engineering">Practical Reverse Engineering</a>
         </h4>
         <p class="fr-book-author">By Bruce Dang, Alexandre Gazet et al.</p>
-        
+
         <p class="fr-book-desc">Shows the kinds of analysis that zeroisation seeks to prevent.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+Reverse+Engineering+Bruce+Dang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

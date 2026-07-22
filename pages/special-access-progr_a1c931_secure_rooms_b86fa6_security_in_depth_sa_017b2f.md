@@ -414,7 +414,7 @@ A secure room is therefore evaluated as part of its wider environment. The quest
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
         </h4>
         <p class="fr-book-author">By Ross Anderson</p>
-        
+
         <p class="fr-book-desc">Strong treatment of layered security principles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ A secure room is therefore evaluated as part of its wider environment. The quest
           <a href="https://www.amazon.com/s?k=The+Art+of+Deception+Kevin+D.+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Deception">The Art of Deception</a>
         </h4>
         <p class="fr-book-author">By Kevin D. Mitnick, William L. Simon</p>
-        
+
         <p class="fr-book-desc">Illustrates why multiple security layers are necessary.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Deception+Kevin+D.+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ A secure room is therefore evaluated as part of its wider environment. The quest
           <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set">Ross Anderson Security Engineering 3rd Edition and Marc Tobia...</a>
         </h4>
         <p class="fr-book-author">By Ross J. Anderson, Marc Weber Tobias</p>
-        
+
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ A secure room is therefore evaluated as part of its wider environment. The quest
           <a href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Industrial Security: Managing Security in the 21st Century">Industrial Security: Managing Security in the 21st Century</a>
         </h4>
         <p class="fr-book-author">By John Fay</p>
-        
+
         <p class="fr-book-desc">Relevant to integrated physical security systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

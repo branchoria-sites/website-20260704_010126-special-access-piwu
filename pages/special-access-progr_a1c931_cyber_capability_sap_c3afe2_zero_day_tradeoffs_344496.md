@@ -418,7 +418,7 @@ No universal formula resolves this conflict. Every decision depends upon the cha
           <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
         </h4>
         <p class="fr-book-author">By Nicole Perlroth</p>
-        
+
         <p class="fr-book-desc">Directly addresses vulnerability disclosure versus retention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ No universal formula resolves this conflict. Every decision depends upon the cha
           <a href="https://www.amazon.com/s?k=Sandworm+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
         </h4>
         <p class="fr-book-author">By Andy Greenberg</p>
-        
+
         <p class="fr-book-desc">Shows consequences when sophisticated cyber capabilities become public.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sandworm+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ No universal formula resolves this conflict. Every decision depends upon the cha
           <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
         </h4>
         <p class="fr-book-author">By Kim Zetter</p>
-        
+
         <p class="fr-book-desc">Explains the strategic value of undisclosed vulnerabilities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,16 +463,16 @@ No universal formula resolves this conflict. Every decision depends upon the cha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+Fred+M.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vxafCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War Will Not Take Place on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RZaJAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cyber War Will Not Take Place" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+Fred+M.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
+          <a href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War Will Not Take Place">Cyber War Will Not Take Place</a>
         </h4>
-        <p class="fr-book-author">By Fred M. Kaplan</p>
-        
-        <p class="fr-book-desc">Frames policy debates surrounding offensive cyber operations.</p>
+        <p class="fr-book-author">By Thomas Rid</p>
+
+        <p class="fr-book-desc">Examines strategic assumptions behind cyber capabilities.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+Fred+M.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Cyber+War+Will+Not+Take+Place+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

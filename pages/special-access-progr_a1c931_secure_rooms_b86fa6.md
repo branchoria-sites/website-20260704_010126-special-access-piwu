@@ -552,7 +552,7 @@ The strongest way to understand SAP secure rooms is as a chain of custody for sp
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
         </h4>
         <p class="fr-book-author">By Ross Anderson</p>
-        
+
         <p class="fr-book-desc">Explains layered security and secure system design.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -586,7 +586,7 @@ The strongest way to understand SAP secure rooms is as a chain of custody for sp
           <a href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Information security management handbook">Information security management handbook</a>
         </h4>
         <p class="fr-book-author">By Harold F. Tipton</p>
-        
+
         <p class="fr-book-desc">Relevant to secure operations and governance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -603,7 +603,7 @@ The strongest way to understand SAP secure rooms is as a chain of custody for sp
           <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set">Ross Anderson Security Engineering 3rd Edition and Marc Tobia...</a>
         </h4>
         <p class="fr-book-author">By Ross J. Anderson, Marc Weber Tobias</p>
-        
+
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

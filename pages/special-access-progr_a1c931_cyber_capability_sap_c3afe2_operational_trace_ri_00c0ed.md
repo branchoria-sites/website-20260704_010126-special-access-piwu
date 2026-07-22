@@ -490,7 +490,7 @@ For programmes protecting especially sensitive offensive cyber capabilities, thi
           <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
         </h4>
         <p class="fr-book-author">By Nicole Perlroth</p>
-        
+
         <p class="fr-book-desc">Explores offensive cyber capabilities, exposure and vulnerability markets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -507,7 +507,7 @@ For programmes protecting especially sensitive offensive cyber capabilities, thi
           <a href="https://www.amazon.com/s?k=Sandworm+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
         </h4>
         <p class="fr-book-author">By Andy Greenberg</p>
-        
+
         <p class="fr-book-desc">Shows how sophisticated cyber operations leave forensic evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sandworm+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -524,7 +524,7 @@ For programmes protecting especially sensitive offensive cyber capabilities, thi
           <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
         </h4>
         <p class="fr-book-author">By Kim Zetter</p>
-        
+
         <p class="fr-book-desc">Examines operational cyber tools and their discovery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -541,7 +541,7 @@ For programmes protecting especially sensitive offensive cyber capabilities, thi
           <a href="https://www.amazon.com/s?k=Practical+Malware+Analysis+Michael+Sikorski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Malware Analysis">Practical Malware Analysis</a>
         </h4>
         <p class="fr-book-author">By Michael Sikorski, Andrew Honig</p>
-        
+
         <p class="fr-book-desc">Explains how defenders dissect operational artefacts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+Malware+Analysis+Michael+Sikorski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

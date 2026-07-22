@@ -436,7 +436,7 @@ For Operations SAPs, this means protecting sensitive missions increasingly requi
           <a href="https://www.amazon.com/s?k=The+Art+of+War+%E5%AD%99%E6%AD%A6+%28Sun+Tzu%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of War">The Art of War</a>
         </h4>
         <p class="fr-book-author">By 孙武 (Sun Tzu), Stephen F. Kaufman et al.</p>
-        
+
         <p class="fr-book-desc">Emphasizes concealment of preparations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+War+%E5%AD%99%E6%AD%A6+%28Sun+Tzu%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ For Operations SAPs, this means protecting sensitive missions increasingly requi
           <a href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boyd">Boyd</a>
         </h4>
         <p class="fr-book-author">By Robert Coram</p>
-        
+
         <p class="fr-book-desc">Relevant to operational tempo and planning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -470,7 +470,7 @@ For Operations SAPs, this means protecting sensitive missions increasingly requi
           <a href="https://www.amazon.com/s?k=The+Box+Marc+Levinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Box">The Box</a>
         </h4>
         <p class="fr-book-author">By Marc Levinson</p>
-        
+
         <p class="fr-book-desc">Explains logistics systems that can create observable patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Box+Marc+Levinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -487,7 +487,7 @@ For Operations SAPs, this means protecting sensitive missions increasingly requi
           <a href="https://www.amazon.com/s?k=The+mission%2C+the+men%2C+and+me+Pete+Blaber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mission, the men, and me">The mission, the men, and me</a>
         </h4>
         <p class="fr-book-author">By Pete Blaber</p>
-        
+
         <p class="fr-book-desc">Discusses operational support and mission preparation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+mission%2C+the+men%2C+and+me+Pete+Blaber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

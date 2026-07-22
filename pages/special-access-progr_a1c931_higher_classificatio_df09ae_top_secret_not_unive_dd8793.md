@@ -406,7 +406,7 @@ That is why someone can truthfully hold a Top Secret clearance while remaining u
 <a href="https://www.amazon.com/s?k=The+black+banners+Ali+H.+Soufan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The black banners">The black banners</a>
 </h4>
 <p class="fr-book-author">By Ali H. Soufan</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Terrorism, September 11 Terrorist Attacks, 2001, Qaida (Organization), War on Terrorism, 2001-2009, Preve...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+black+banners+Ali+H.+Soufan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ That is why someone can truthfully hold a Top Secret clearance while remaining u
 <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
 </h4>
 <p class="fr-book-author">By Peter Hennessy</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Geschichte 1940-1970, Military planning, Nuclear weapons, Cold War, Kernoorlog.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ That is why someone can truthfully hold a Top Secret clearance while remaining u
 <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intelligence">Intelligence</a>
 </h4>
 <p class="fr-book-author">By Lowenthal, Mark M.</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Intelligence service, Geheimdienst, Inlichtingendiensten, Spionage, Securite publique.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

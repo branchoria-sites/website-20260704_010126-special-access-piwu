@@ -442,7 +442,7 @@ When read as intended, a banner such as **TOP SECRET//SPECIAL ACCESS REQUIRED-PR
           <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
         </h4>
         <p class="fr-book-author">By Peter Hennessy</p>
-        
+
         <p class="fr-book-desc">Offers background on official secrecy practices.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ When read as intended, a banner such as **TOP SECRET//SPECIAL ACCESS REQUIRED-PR
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Victor Marchetti, John Marks</p>
-        
+
         <p class="fr-book-desc">Examines secrecy controls and intelligence bureaucracy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ When read as intended, a banner such as **TOP SECRET//SPECIAL ACCESS REQUIRED-PR
           <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intelligence">Intelligence</a>
         </h4>
         <p class="fr-book-author">By Lowenthal, Mark M.</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Intelligence service, Geheimdienst, Inlichtingendiensten, Spionage, Securite publique.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

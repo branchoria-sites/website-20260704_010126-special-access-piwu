@@ -390,7 +390,7 @@ That change in authority has practical consequences. An accredited SAPF becomes 
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
         </h4>
         <p class="fr-book-author">By Ross Anderson</p>
-        
+
         <p class="fr-book-desc">Explains assurance and secure design.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ That change in authority has practical consequences. An accredited SAPF becomes 
           <a href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Information security management handbook">Information security management handbook</a>
         </h4>
         <p class="fr-book-author">By Harold F. Tipton</p>
-        
+
         <p class="fr-book-desc">Useful for security governance processes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ That change in authority has practical consequences. An accredited SAPF becomes 
           <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set">Ross Anderson Security Engineering 3rd Edition and Marc Tobia...</a>
         </h4>
         <p class="fr-book-author">By Ross J. Anderson, Marc Weber Tobias</p>
-        
+
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ That change in authority has practical consequences. An accredited SAPF becomes 
           <a href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Industrial Security: Managing Security in the 21st Century">Industrial Security: Managing Security in the 21st Century</a>
         </h4>
         <p class="fr-book-author">By John Fay</p>
-        
+
         <p class="fr-book-desc">Relevant to secure facility accreditation and governance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

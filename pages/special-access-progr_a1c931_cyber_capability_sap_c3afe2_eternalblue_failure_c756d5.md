@@ -394,7 +394,7 @@ From a SAP exposure perspective, the incident underscores that cyber capabilitie
 <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
 </h4>
 <p class="fr-book-author">By Nicole Perlroth</p>
-        
+
 <p class="fr-book-desc">Discusses vulnerability retention, leaks, and the strategic consequences of exploits.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ From a SAP exposure perspective, the incident underscores that cyber capabilitie
 <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
 </h4>
 <p class="fr-book-author">By Andy Greenberg</p>
-        
+
 <p class="fr-book-desc">Explores major malware campaigns that followed leaked offensive capabilities.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ From a SAP exposure perspective, the incident underscores that cyber capabilitie
 <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
 </h4>
 <p class="fr-book-author">By Kim Zetter</p>
-        
+
 <p class="fr-book-desc">Provides historical context for state-developed cyber weapons and unintended consequences.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ From a SAP exposure perspective, the incident underscores that cyber capabilitie
 <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+M.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
 </h4>
 <p class="fr-book-author">By Fred M. Kaplan</p>
-        
+
 <p class="fr-book-desc">Places exploit development and disclosure in broader cyber strategy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+M.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

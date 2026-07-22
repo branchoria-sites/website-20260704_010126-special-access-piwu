@@ -387,7 +387,7 @@ For that reason, Yellow Fruit continues to serve as a historical reference point
           <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Provides broad context for classified program oversight case studies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For that reason, Yellow Fruit continues to serve as a historical reference point
           <a href="https://www.amazon.com/s?k=The+Fifth+Risk+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Risk">The Fifth Risk</a>
         </h4>
         <p class="fr-book-author">By Michael Lewis</p>
-        
+
         <p class="fr-book-desc">Helps readers understand why oversight reforms emerge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fifth+Risk+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For that reason, Yellow Fruit continues to serve as a historical reference point
           <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes">Legacy of Ashes</a>
         </h4>
         <p class="fr-book-author">By Tim Weiner</p>
-        
+
         <p class="fr-book-desc">Places oversight failures into historical perspective.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For that reason, Yellow Fruit continues to serve as a historical reference point
           <a href="https://www.amazon.com/s?k=The+Secret+Team+L.+Fletcher+Prouty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Team">The Secret Team</a>
         </h4>
         <p class="fr-book-author">By L. Fletcher Prouty</p>
-        
+
         <p class="fr-book-desc">Relevant background on secret program governance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+Team+L.+Fletcher+Prouty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
