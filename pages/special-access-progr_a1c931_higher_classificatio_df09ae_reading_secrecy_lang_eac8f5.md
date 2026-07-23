@@ -467,16 +467,16 @@ Keeping these three functions separate prevents one of the most common myths sur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secrets+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2fUNAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intelligence%3A+From+Secrets+to+Policy+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intelligence: From Secrets to Policy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/810618-M.jpg" alt="Cover for Intelligence: From Secrets to Policy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Secrets+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secrets">Secrets</a>
+          <a href="https://www.amazon.com/s?k=Intelligence%3A+From+Secrets+to+Policy+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intelligence: From Secrets to Policy">Intelligence: From Secrets to Policy</a>
         </h4>
-        <p class="fr-book-author">By Daniel Ellsberg</p>
+        <p class="fr-book-author">By Lowenthal, Mark M.</p>
 
-        <p class="fr-book-desc">Three decades after making history by releasing the Pentagon Papers, the former U.S. Marine and Pentagon insider reveals why he did it an...</p>
+        <p class="fr-book-desc">Explains classification, intelligence policy, and information handling.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Secrets+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Intelligence%3A+From+Secrets+to+Policy+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -484,16 +484,16 @@ Keeping these three functions separate prevents one of the most common myths sur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/810618-M.jpg" alt="Cover for Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secrets%3A+A+Memoir+of+Vietnam+and+the+Pentagon+Papers+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secrets: A Memoir of Vietnam and the Pentagon Papers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8276322-M.jpg" alt="Cover for Secrets: A Memoir of Vietnam and the Pentagon Papers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intelligence">Intelligence</a>
+          <a href="https://www.amazon.com/s?k=Secrets%3A+A+Memoir+of+Vietnam+and+the+Pentagon+Papers+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secrets: A Memoir of Vietnam and the Pentagon Papers">Secrets: A Memoir of Vietnam and the Pentagon Papers</a>
         </h4>
-        <p class="fr-book-author">By Lowenthal, Mark M.</p>
+        <p class="fr-book-author">By Daniel Ellsberg</p>
 
-        <p class="fr-book-desc">First published 1999. Subjects: Intelligence service, Geheimdienst, Inlichtingendiensten, Spionage, Securite publique.</p>
+        <p class="fr-book-desc">Explains how classified information and secrecy policies operate in practice.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Secrets%3A+A+Memoir+of+Vietnam+and+the+Pentagon+Papers+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -501,7 +501,7 @@ Keeping these three functions separate prevents one of the most common myths sur
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Puzzle+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Puzzle Palace</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+state&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret state</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Secrets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secrets</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Puzzle+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Puzzle Palace</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+state&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret state</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Intelligence%3A+From+Secrets+to+Policy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intelligence: From Secrets to Policy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

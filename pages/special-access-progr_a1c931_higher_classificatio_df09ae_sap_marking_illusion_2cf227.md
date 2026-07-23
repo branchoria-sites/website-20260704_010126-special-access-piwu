@@ -470,16 +470,16 @@ When read as intended, a banner such as **TOP SECRET//SPECIAL ACCESS REQUIRED-PR
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/810618-M.jpg" alt="Cover for Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intelligence%3A+From+Secrets+to+Policy+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intelligence: From Secrets to Policy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/810618-M.jpg" alt="Cover for Intelligence: From Secrets to Policy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intelligence">Intelligence</a>
+          <a href="https://www.amazon.com/s?k=Intelligence%3A+From+Secrets+to+Policy+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intelligence: From Secrets to Policy">Intelligence: From Secrets to Policy</a>
         </h4>
         <p class="fr-book-author">By Lowenthal, Mark M.</p>
 
-        <p class="fr-book-desc">First published 1999. Subjects: Intelligence service, Geheimdienst, Inlichtingendiensten, Spionage, Securite publique.</p>
+        <p class="fr-book-desc">Clarifies classification, control markings, and intelligence access systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intelligence+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Intelligence%3A+From+Secrets+to+Policy+Lowenthal%2C+Mark+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
