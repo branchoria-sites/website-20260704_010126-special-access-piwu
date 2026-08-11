@@ -409,7 +409,7 @@ That assumption changes design priorities throughout the facility. Architects, e
 <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
 </h4>
 <p class="fr-book-author">By Ross Anderson</p>
-
+        
 <p class="fr-book-desc">Includes relevant discussion of side-channel and emanation risks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ That assumption changes design priorities throughout the facility. Architects, e
 <a href="https://www.amazon.com/s?k=The+Code+Book+by+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Code Book">The Code Book</a>
 </h4>
 <p class="fr-book-author">By Simon Singh</p>
-
+        
 <p class="fr-book-desc">Introduces secure communications concepts.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Code+Book+by+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ That assumption changes design priorities throughout the facility. Architects, e
 <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set">Ross Anderson Security Engineering 3rd Edition and Marc Tobia...</a>
 </h4>
 <p class="fr-book-author">By Ross J. Anderson, Marc Weber Tobias</p>
-
+        
 <p class="fr-book-desc">First published 2024.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

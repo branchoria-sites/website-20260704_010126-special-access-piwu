@@ -402,7 +402,7 @@ The enduring debate is therefore not whether mosaic effects exist—they plainly
 <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Intelligence">The Craft of Intelligence</a>
 </h4>
 <p class="fr-book-author">By Allen Dulles</p>
-
+        
 <p class="fr-book-desc">Covers why intelligence organizations guard seemingly minor information.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ The enduring debate is therefore not whether mosaic effects exist—they plainly
 <a href="https://www.amazon.com/s?k=Black+Box+Thinking+by+Matthew+Syed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Box Thinking">Black Box Thinking</a>
 </h4>
 <p class="fr-book-author">By Matthew Syed, Matthew Syed Consulting Ltd</p>
-
+        
 <p class="fr-book-desc">Useful for understanding how small pieces of evidence combine into larger conclusions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Black+Box+Thinking+by+Matthew+Syed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ The enduring debate is therefore not whether mosaic effects exist—they plainly
 <a href="https://www.amazon.com/s?k=The+Secret+World+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret World">The Secret World</a>
 </h4>
 <p class="fr-book-author">By Christopher Andrew</p>
-
+        
 <p class="fr-book-desc">First published 2018. Subjects: Espionage, Intelligence service, Secret service, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Secret+World+Christopher+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

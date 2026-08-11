@@ -373,89 +373,89 @@ That change in authority has practical consequences. An accredited SAPF becomes 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does a secure room become a SAPF?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does a secure room become a SAPF?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gzoLEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Ross Anderson</p>
-
-        <p class="fr-book-desc">Explains assurance and secure design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gzoLEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
+</h4>
+<p class="fr-book-author">By Ross Anderson</p>
+        
+<p class="fr-book-desc">Explains assurance and secure design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Security+Engineering+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Information security management handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8662590-M.jpg" alt="Cover for Information security management handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Information security management handbook">Information security management handbook</a>
-        </h4>
-        <p class="fr-book-author">By Harold F. Tipton</p>
-
-        <p class="fr-book-desc">Useful for security governance processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Information security management handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8662590-M.jpg" alt="Cover for Information security management handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Information security management handbook">Information security management handbook</a>
+</h4>
+<p class="fr-book-author">By Harold F. Tipton</p>
+        
+<p class="fr-book-desc">Useful for security governance processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Information+security+management+handbook+Harold+F.+Tipton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14750926-M.jpg" alt="Cover for Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set">Ross Anderson Security Engineering 3rd Edition and Marc Tobia...</a>
-        </h4>
-        <p class="fr-book-author">By Ross J. Anderson, Marc Weber Tobias</p>
-
-        <p class="fr-book-desc">First published 2024.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14750926-M.jpg" alt="Cover for Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set">Ross Anderson Security Engineering 3rd Edition and Marc Tobia...</a>
+</h4>
+<p class="fr-book-author">By Ross J. Anderson, Marc Weber Tobias</p>
+        
+<p class="fr-book-desc">First published 2024.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set+Ross+J.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Industrial Security: Managing Security in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Industrial Security: Managing Security in the 21st Century">Industrial Security: Managing Security in the 21st Century</a>
-        </h4>
-        <p class="fr-book-author">By John Fay</p>
-
-        <p class="fr-book-desc">Relevant to secure facility accreditation and governance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Industrial Security: Managing Security in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Industrial Security: Managing Security in the 21st Century">Industrial Security: Managing Security in the 21st Century</a>
+</h4>
+<p class="fr-book-author">By John Fay</p>
+        
+<p class="fr-book-desc">Relevant to secure facility accreditation and governance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Industrial+Security%3A+Managing+Security+in+the+21st+Century+John+Fay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Information+security+management+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Information security management books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Information+security+management+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Information security management books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ross+Anderson+Security+Engineering+3rd+Edition+and+Marc+Tobias+Tobias+on+Locks+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ross Anderson Security Engineering 3rd Edition and Marc Tobias Tobias on Locks Set</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
