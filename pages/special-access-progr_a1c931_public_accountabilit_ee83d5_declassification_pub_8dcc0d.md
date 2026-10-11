@@ -768,7 +768,7 @@ The central trade-off therefore remains unchanged. Declassification can repair p
 1.<a id="endnote-1"></a>
    Source: archives.gov  
  [Title]({{ 'statute/' | relative_url }}): cnsi eo
-   Link:<a href="https://www.archives.gov/[isoo" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/[isoo</a>  
+   Link:https://www.archives.gov/[isoo  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesThe President Executive Order 1352629 Dec 2009 — This order prescribes a uniform system for classifying, safeguarding, a...</p></details>
 
 2.<a id="endnote-2"></a>
