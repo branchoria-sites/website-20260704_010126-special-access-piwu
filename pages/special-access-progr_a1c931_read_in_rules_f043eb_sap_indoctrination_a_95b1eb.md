@@ -785,7 +785,7 @@ The agreement therefore links policy, documentation and individual responsibilit
 6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: cnsi eo  
-   Link:<a href="https://www.archives.gov/[isoo" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/[isoo</a>  
+   Link:https://www.archives.gov/[isoo  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesThe President Executive Order 13526August 15, 2016 — 29 Dec 2009 — This order prescribes a uniform system for classifyin...</p></details>
    Published: August 15, 2016  
 

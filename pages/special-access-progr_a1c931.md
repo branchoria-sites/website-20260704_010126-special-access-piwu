@@ -1034,7 +1034,7 @@ The public record supports three firm conclusions. First, SAPs are formal access
 31.<a id="endnote-31"></a>
    Source: archives.gov  
    Title: cnsi eo  
-   Link:<a href="https://www.archives.gov/[isoo" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/[isoo</a>  
+   Link:https://www.archives.gov/[isoo  
 
 32.<a id="endnote-32"></a>
    Source: esd.whs.mil  
